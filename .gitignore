@@ -7,3 +7,4 @@ package-lock.json
 .idea/
 yarn-error.log
 out/
+.firebase
